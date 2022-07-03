@@ -53,7 +53,7 @@ module.exports = {
         {
           title: 'ABAP DB Browser',
           collapsable: false,
-          children: [['abap-db-browser/', 'Introduction']]
+          children: [['abap-db-browser/', 'Introduction'], ['abap-db-browser/installation','Installation']]
         },
         {
           title: 'ABAP Search and Analysis Tools',
@@ -72,5 +72,7 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: ['@vuepress/plugin-back-to-top', '@vuepress/plugin-medium-zoom']
+  plugins: ['@vuepress/plugin-back-to-top', '@vuepress/plugin-medium-zoom'],
+  extraWatchFiles: ['.vuepress/config.js'],
+  evergreen: true
 };
