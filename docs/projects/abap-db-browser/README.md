@@ -2,6 +2,8 @@
 
 *ABAP DB Browser* is a SAP GUI Transaction which combines functionalities of well-known Transactions `SE16N` and `SE16H`.
 
+![Selection Screen](./images/selection-screen.png)
+
 ## Available Transactions
 
 - `ZDBBR` - DB Browser (The main program)
