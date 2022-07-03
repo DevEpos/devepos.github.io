@@ -12,7 +12,8 @@ cd docs/.vuepress/dist
 # if you are deploying to a custom domain
 echo 'devepos.com' > CNAME
 
-git init -b gh-pages
+git init
+git checkout -b gh-pages
 git add -A
 git commit -m 'deploy'
 git remote add origin https://github.com/stockbal/stockbal.github.io.git
