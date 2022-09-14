@@ -53,17 +53,27 @@ module.exports = {
         {
           title: 'ABAP DB Browser',
           collapsable: false,
-          children: [['abap-db-browser/', 'Introduction'], ['abap-db-browser/installation','Installation']]
+          children: [['abap-db-browser/', 'Overview'], ['abap-db-browser/installation','Installation']]
         },
         {
           title: 'ABAP Search and Analysis Tools',
           collapsable: false,
-          children: [['abap-search-tools/', 'Introduction']]
+          children: [['abap-search-tools/', 'Overview']]
         },
         {
           title: 'ABAP Tags',
           collapsable: false,
-          children: [['abap-tags/', 'Introduction']]
+          children: [['abap-tags/', 'Overview']]
+        },
+        {
+          title: 'ABAP Code Search',
+          collapsable: false,
+          children: [['abap-code-search/', 'Overview']]
+        },
+        {
+          title: 'ABAP Call Hierarchy',
+          collapsable: false,
+          children: [['abap-call-hierarchy/', 'Overview']]
         }
       ]
     }

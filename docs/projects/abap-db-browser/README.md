@@ -4,6 +4,10 @@
 
 ![Selection Screen](./images/selection-screen.png)
 
+## Source Code
+
+The source code for ABAP DB Browser is MIT licensed and available on [GitHub](https://github.com/stockbal/abap-db-browser)
+
 ## Available Transactions
 
 - `ZDBBR` - DB Browser (The main program)
