@@ -5,7 +5,13 @@ tag:
     - Beta
 ---
 
+## Overview
+
 ADT plug-in for analyzing the called members of a class method, a function module or a subroutine.
+
+:::warning
+The plug-in is still in a beta state and only available on the [Eclipse Development Update Site](https://eclipse.devepos.com/dev).
+:::
 
 ## Source Code
 

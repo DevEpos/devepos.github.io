@@ -3,7 +3,17 @@ title: ABAP Tags
 order: 2
 ---
 
-ADT plug-in for adding tags to ABAP repository objects
+## Overview
+
+ABAP Tags is an Open Source Plugin which provides tools for adding arbitrary tags to repository objects.
+
+### Features
+
+- View to manage ABAP Tags
+- Wizard to assign Tags to repository objects
+- View to handle ABAP Tags for a single repository object
+- Search View, to search for tagged objects
+- Custom tree node in *Project Explorer* view to browse through all tagged objects easily
 
 ## Source Code
 
