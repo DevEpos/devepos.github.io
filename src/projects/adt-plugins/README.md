@@ -7,6 +7,6 @@ article: false
 ## Plug-ins
 
 - [ABAP Search and Analysis Tools](abap-search-and-analysis-tools/)
-- [ABAP Tags](./abap-tags/)  <Badge text="Beta" type="warning" />
+- [ABAP Tags](./abap-tags/)
 - [ABAP Code Search](./abap-code-search/)
-- [ABAP Call Hierarchy](./abap-callhierarchy/)
+- [ABAP Call Hierarchy](./abap-callhierarchy/) <Badge text="Beta" type="warning" />
