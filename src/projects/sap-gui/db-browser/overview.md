@@ -14,7 +14,7 @@ order: 2
 - Data selection from DB-Table, DB-View, CDS View, Custom Queries
   - Use Grouping and Aggregation functions
 - Jump into data maintenance
-  :::tip Info
+  :::info
   This is only possible if transaction `SE16N` is installed on the system
   :::
 - Create Favorites for your most used DB entities (Like SAP Easy Access Tree menu)
