@@ -4,7 +4,7 @@ icon: plug
 article: false
 ---
 
-## Plug-ins
+## Content
 
 - [ABAP Search and Analysis Tools](abap-search-and-analysis-tools/)
 - [ABAP Tags](./abap-tags/)

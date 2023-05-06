@@ -4,6 +4,6 @@ icon: desktop
 article: false
 ---
 
-## Programs
+## Content
 
 - [DB Browser](db-browser/)
