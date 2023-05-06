@@ -46,6 +46,12 @@ export const enSidebar = sidebar({
           prefix: "db-browser/",
           children: [
             {
+              text: "Overview",
+              link: "overview/",
+              icon: "circle-info",
+              children: []
+            },
+            {
               text: "Installation Instructions",
               link: "installation/",
               icon: "download",

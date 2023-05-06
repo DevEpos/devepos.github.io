@@ -1,6 +1,6 @@
 ---
 title: Installation Instructions
-order: 2
+order: 3
 ---
 :::tip Note
 All needed repositories - including this one - are to be installed via [abapGit](https://github.com/abapGit/abapGit#abapGit)
