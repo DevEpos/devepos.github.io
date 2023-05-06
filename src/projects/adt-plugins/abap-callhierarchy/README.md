@@ -1,7 +1,7 @@
 ---
 title: ABAP Call Hierarchy
 order: 4
-tags:
+tag:
     - Beta
 ---
 
