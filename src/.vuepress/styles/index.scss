@@ -1,1 +1,62 @@
-// place your custom styles here
+@use "@sass-palette/hope-config";
+
+.home.project {
+  top: 0;
+
+  width: 100%;
+  max-width: unset;
+  padding-right: 0;
+  padding-left: 0;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  .hero-info-wrapper {
+    display: block;
+    max-width: 100%;
+    text-align: center;
+
+    img {
+      max-height: 300px;
+      margin: 50px auto 0;
+    }
+
+    h1 {
+      font-family: bobohei, sans-serif;
+    }
+
+    .description {
+      max-width: 100%;
+    }
+
+    .actions {
+      margin-left: -10px;
+    }
+
+    .action-button.primary {
+      color: #fff;
+      font-family: bobohei, sans-serif;
+    }
+  }
+
+  .feature-wrapper {
+    border-top: none;
+  }
+
+  h2 {
+    border-bottom: none;
+  }
+}
+
+#{hope-config.$content-class}.custom {
+  padding: 0 5rem;
+}
+
+#{hope-config.$content-class}:not(.custom) > p,
+#{hope-config.$content-class}:not(.custom) > ul p,
+#{hope-config.$content-class}:not(.custom) > ol p {
+  text-align: left;
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}

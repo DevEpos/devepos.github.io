@@ -8,7 +8,7 @@ export default defineUserConfig({
     "/": {
       lang: "en-US",
       title: "DevEpos",
-      description: "DevEpos Homepage"
+      description: "Mostly Tooling for ABAP Development (ADT)"
     }
     // "/de/": {
     //   lang: "de-DE",

@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Home
 heroImage: /logo.svg
-tagline: Welcome to DevEpos Homepage. My name is Ludwig Stockbauer-Muhr and this site showcases some of my Open Source projects.
+heroText: false
 
 features:
   - title: ABAP Search and Analysis Tools
@@ -34,3 +34,15 @@ features:
 copyright: false
 footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright © 2021-present Ludwig Stockbauer-Muhr
 ---
+
+<div style="height:100px"></div>
+
+## Welcome
+
+Looking to enhance your ADT's with even more powerful features? Then your search is over.
+
+Here you can find plug-ins for:
+
+- searching and analysing repository objects
+- searching ABAP code
+- categorize repository objects with flexible tags
