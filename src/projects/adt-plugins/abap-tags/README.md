@@ -19,5 +19,5 @@ ABAP Tags is an Open Source Plugin which provides tools for adding arbitrary tag
 
 The source code for the plug-in is MIT licensed and available on GitHub:
 
-- [abap-tags-ui (ADT)](https://github.com/stockbal/abap-tags-ui)
-- [abap-tags-backend (ABAP)](https://github.com/stockbal/abap-tags-backend)
+- [abap-tags-ui (ADT)](https://github.com/DevEpos/abap-tags-ui)
+- [abap-tags-backend (ABAP)](https://github.com/DevEpos/abap-tags-backend)

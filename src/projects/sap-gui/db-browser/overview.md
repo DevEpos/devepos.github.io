@@ -21,7 +21,7 @@ order: 2
 - History of your most recently used DB entities
 - Create custom value helps for your selection fields
 - Integrated advanced search capabilities for DB entities
-  - see [abap-search-tools-ui](https://github.com/stockbal/abap-search-tools-ui)
+  - see [abap-search-tools-ui](https://github.com/DevEpos/abap-search-tools-ui)
 - Advanced ALV Data Output
   - Live Filter → Filter is directly converted to selection criteria and triggers a new DB select
     :::tip

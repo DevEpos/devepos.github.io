@@ -11,7 +11,7 @@ order: 1
 
 The source code is MIT licensed and available on GitHub:
 
-- [abap-db-browser](https://github.com/stockbal/abap-db-browser)
+- [abap-db-browser](https://github.com/DevEpos/abap-db-browser)
 
 ## Content
 
