@@ -5,7 +5,7 @@ order: 1
 
 *ABAP DB Browser* is a SAP GUI Transaction which combines functionalities of well-known Transactions `SE16N` and `SE16H`.
 
-![Selection Screen](./img/selection-screen2.png)
+![Selection Screen](./img/selection-screen.png)
 
 ## Source Code
 
