@@ -22,4 +22,4 @@ The ABAP Code Search is a tool which offers the possibility to search in ABAP so
 The source code for the plug-in is MIT licensed and available on GitHub:
 
 - [abap-code-search-ui (ADT)](https://github.com/DevEpos/abap-code-search-ui)
-- [abap-code-search (ABAP)](https://github.com/DevEpos/abap-code-search)
+- [abap-code-search (ABAP)](https://github.com/DevEpos/abap-code-search-tools)
