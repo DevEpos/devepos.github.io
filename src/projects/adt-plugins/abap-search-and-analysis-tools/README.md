@@ -27,5 +27,5 @@ ABAP Search and Analysis Tools is an Open Source plugin which provides tools for
 
 The source code for the plug-in is MIT licensed and available on GitHub:
 
-- [abap-search-tools-ui (ADT)](https://github.com/DevEpos/abap-search-tools-ui)
+- [abap-search-tools-ui (ADT)](https://github.com/DevEpos/eclipse-adt-plugins/tree/main/features/search-tools)
 - [abap-search-tools (ABAP)](https://github.com/DevEpos/abap-search-tools)

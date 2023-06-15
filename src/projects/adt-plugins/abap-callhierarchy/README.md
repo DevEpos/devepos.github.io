@@ -17,5 +17,5 @@ The plug-in is still in a beta state and only available on the [Eclipse Developm
 
 The source code for the plug-in is MIT licensed and available on GitHub:
 
-- [abap-call-hierarchy-ui (ADT)](https://github.com/DevEpos/abap-call-hierarchy-ui)
+- [abap-call-hierarchy-ui (ADT)](https://github.com/DevEpos/eclipse-adt-plugins/tree/main/features/call-hierarchy)
 - [abap-call-hierarchy (ABAP)](https://github.com/DevEpos/abap-call-hierarchy)
