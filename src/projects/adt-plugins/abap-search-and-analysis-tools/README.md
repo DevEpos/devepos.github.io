@@ -10,10 +10,16 @@ ABAP Search and Analysis Tools is an Open Source plugin which provides tools for
 ### Features
 
 - Extended ABAP Object search integrated into eclipse Search Dialog  
+
+  ![Object Search Dialog](./img/ObjectSearch-Dialog.png)
+
   It currently supports the following object types:
+  - Database Table
+  - View
   - CDS View
-  - Database Table/View
   - Class / Interface
+  - Method
+  - Message
 
 - View for analyzing CDS View  
   The following analyses are possible at the moment:
