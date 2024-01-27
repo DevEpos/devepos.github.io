@@ -12,19 +12,58 @@ export const enSidebar = sidebar({
           text: "ABAP Search and Analysis Tools",
           link: "abap-search-and-analysis-tools/README.md",
           prefix: "abap-search-and-analysis-tools/",
-          children: []
+          children: [
+            {
+              text: "Overview",
+              link: "overview/",
+              icon: "circle-info",
+              children: []
+            },
+            {
+              text: "Release Notes",
+              link: "release-notes/",
+              icon: "lightbulb",
+              children: []
+            }
+          ]
         },
         {
           text: "ABAP Tags",
           link: "abap-tags/README.md",
           prefix: "abap-tags/",
-          children: []
+          children: [
+            {
+              text: "Overview",
+              link: "overview/",
+              icon: "circle-info",
+              children: []
+            },
+            {
+              text: "Release Notes",
+              link: "release-notes/",
+              icon: "lightbulb",
+              children: []
+            }
+          ]
         },
         {
           text: "ABAP Code Search",
           link: "abap-code-search/README.md",
           prefix: "abap-code-search/",
-          children: []
+          children: [
+            {
+              text: "Overview",
+              link: "overview/",
+              icon: "circle-info",
+              children: []
+            },
+            {
+              text: "Release Notes",
+              link: "release-notes/",
+              icon: "lightbulb",
+              children: []
+            }
+          ]
         },
         {
           text: "ABAP Call Hierarchy",

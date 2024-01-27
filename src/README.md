@@ -9,17 +9,17 @@ features:
   - title: ABAP Search and Analysis Tools
     icon: plug
     details: ADT Plug-in with advanced object search and CDS analysis functionality
-    link: /projects/adt-plugins/abap-search-and-analysis-tools/
+    link: /projects/adt-plugins/abap-search-and-analysis-tools/overview
 
   - title: ABAP Tags
     icon: plug
     details: ADT Plug-in for tagging repository objects
-    link: /projects/adt-plugins/abap-tags/
+    link: /projects/adt-plugins/abap-tags/overview
 
   - title: ABAP Code Search
     icon: plug
     details: ADT Plug-in for search ABAP Code
-    link: /projects/adt-plugins/abap-code-search/
+    link: /projects/adt-plugins/abap-code-search/overview
 
   - title: ABAP Call Hierarchy
     icon: plug
