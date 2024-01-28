@@ -17,9 +17,15 @@ export const enNavbar = navbar([
         prefix: "adt-plugins/",
         link: "adt-plugins/",
         children: [
-          "abap-search-and-analysis-tools/",
-          "abap-tags/",
-          "abap-code-search/",
+          {
+            text: "ABAP Search and Analsysis Tools",
+            link: "abap-search-and-analysis-tools/"
+          },
+          {
+            text: "ABAP Tags",
+            link: "abap-tags/"
+          },
+          { text: "ABAP Code Search", link: "abap-code-search/" },
           "abap-callhierarchy/"
         ]
       },

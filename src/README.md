@@ -7,27 +7,27 @@ heroText: false
 
 features:
   - title: ABAP Search and Analysis Tools
-    icon: plug
+    icon: search
     details: ADT Plug-in with advanced object search and CDS analysis functionality
-    link: /projects/adt-plugins/abap-search-and-analysis-tools/overview
+    link: /projects/adt-plugins/abap-search-and-analysis-tools
 
   - title: ABAP Tags
-    icon: plug
+    icon: tags
     details: ADT Plug-in for tagging repository objects
-    link: /projects/adt-plugins/abap-tags/overview
+    link: /projects/adt-plugins/abap-tags
 
   - title: ABAP Code Search
-    icon: plug
+    icon: search
     details: ADT Plug-in for search ABAP Code
-    link: /projects/adt-plugins/abap-code-search/overview
+    link: /projects/adt-plugins/abap-code-search
 
   - title: ABAP Call Hierarchy
-    icon: plug
+    icon: sitemap
     details: ADT Plug-in for analysing call hierarchies of methods, function modules or subroutines
     link: /projects/adt-plugins/abap-callhierarchy/
 
   - title: DB Browser
-    icon: desktop
+    icon: table
     details: SAP GUI program to analyse database content
     link: /projects/sap-gui/db-browser/
 

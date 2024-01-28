@@ -1,5 +1,6 @@
 ---
 title: DB Browser
+icon: table
 order: 1
 ---
 
@@ -15,5 +16,5 @@ The source code is MIT licensed and available on GitHub:
 
 ## Content
 
-- [Overview](overview.md)
-- [Installation Instructions](installation.md)
+- [Overview](features/)
+- [Installation Instructions](installation/)

@@ -1,5 +1,6 @@
 ---
 title: Installation Instructions
+icon: download
 order: 3
 ---
 :::info

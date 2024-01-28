@@ -1,13 +1,10 @@
 ---
-title: Overview
+title: Features
+icon: circle-info
 order: 2
 ---
 
-## Description
-
-The ABAP Code Search is a tool to search in ABAP source code for a given string.
-
-### Features
+## Overview
 
 - works in R/3 environments as well as for S/4
 - allows a detailed scope definition with filtering by object type, application
@@ -17,9 +14,15 @@ The ABAP Code Search is a tool to search in ABAP source code for a given string.
 - It is integrated in the Eclipse search dialog, which can be called via `STRG` + `H` or  
   the eclipse menu *Search → Search...*
 
-## Source Code
+## Searchable Object Types
 
-The source code for the plug-in is MIT licensed and available on GitHub:
-
-- [abap-code-search-ui (ADT)](https://github.com/DevEpos/eclipse-adt-plugins/tree/main/features/code-search)
-- [abap-code-search (ABAP)](https://github.com/DevEpos/abap-code-search-tools)
+- [X] Classes (CLAS)
+- [X] Interfaces (INTF)
+- [X] Programs (PROG)
+- [X] Type Groups (TYPE)
+- [X] Function Groups (FUGR)
+- [X] Data Definitions (DDLS)
+- [X] Metadata Extensions (DDLX)
+- [X] Access Controls (DCLS)
+- [X] Behavior Definitions (BDEV)
+- [X] Simple Transformations (XSLT)

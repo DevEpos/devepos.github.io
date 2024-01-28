@@ -1,5 +1,6 @@
 ---
 title: Overview
+icon: circle-info
 order: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Release Notes
+icon: lightbulb
 order: 2
 ---
 

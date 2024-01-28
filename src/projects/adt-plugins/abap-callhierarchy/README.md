@@ -9,9 +9,11 @@ tag:
 
 ADT plug-in for analyzing the called members of a class method, a function module or a subroutine.
 
-:::warning
+:::warning Important
 The plug-in is still in a beta state and only available on the [Eclipse Development Update Site](https://eclipse.devepos.com/dev).
 :::
+
+![Call Hierarchy View](./img/call-hierarchy-view.png)
 
 ## Source Code
 

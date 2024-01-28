@@ -12,58 +12,19 @@ export const enSidebar = sidebar({
           text: "ABAP Search and Analysis Tools",
           link: "abap-search-and-analysis-tools/README.md",
           prefix: "abap-search-and-analysis-tools/",
-          children: [
-            {
-              text: "Overview",
-              link: "overview/",
-              icon: "circle-info",
-              children: []
-            },
-            {
-              text: "Release Notes",
-              link: "release-notes/",
-              icon: "lightbulb",
-              children: []
-            }
-          ]
+          children: []
         },
         {
           text: "ABAP Tags",
           link: "abap-tags/README.md",
           prefix: "abap-tags/",
-          children: [
-            {
-              text: "Overview",
-              link: "overview/",
-              icon: "circle-info",
-              children: []
-            },
-            {
-              text: "Release Notes",
-              link: "release-notes/",
-              icon: "lightbulb",
-              children: []
-            }
-          ]
+          children: []
         },
         {
           text: "ABAP Code Search",
           link: "abap-code-search/README.md",
           prefix: "abap-code-search/",
-          children: [
-            {
-              text: "Overview",
-              link: "overview/",
-              icon: "circle-info",
-              children: []
-            },
-            {
-              text: "Release Notes",
-              link: "release-notes/",
-              icon: "lightbulb",
-              children: []
-            }
-          ]
+          children: []
         },
         {
           text: "ABAP Call Hierarchy",
@@ -83,22 +44,14 @@ export const enSidebar = sidebar({
           text: "DB Browser",
           link: "db-browser/README.md",
           prefix: "db-browser/",
-          children: [
-            {
-              text: "Overview",
-              link: "overview/",
-              icon: "circle-info",
-              children: []
-            },
-            {
-              text: "Installation Instructions",
-              link: "installation/",
-              icon: "download",
-              children: []
-            }
-          ]
+          children: []
         }
       ]
     }
-  ]
+  ],
+  "/projects/adt-plugins/abap-code-search": "structure",
+  "/projects/adt-plugins/abap-search-and-analysis-tools": "structure",
+  "/projects/adt-plugins/abap-tags": "structure",
+  "/projects/adt-plugins/abap-callhierarchy": "structure",
+  "/projects/sap-gui/db-browser": "structure"
 });
