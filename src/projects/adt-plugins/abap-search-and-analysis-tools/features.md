@@ -1,6 +1,6 @@
 ---
 title: Features
-icon: circle-info
+icon: splotch
 order: 2
 ---
 

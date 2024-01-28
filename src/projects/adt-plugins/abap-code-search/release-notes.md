@@ -1,6 +1,6 @@
 ---
 title: Release Notes
-icon: lightbulb
+icon: clock
 order: 3
 ---
 
