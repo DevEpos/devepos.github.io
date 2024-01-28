@@ -48,6 +48,20 @@ export default hopeTheme({
   },
 
   plugins: {
+    searchPro: {
+      indexContent: true,
+      // add supports for category and tags
+      customFields: [
+        {
+          getter: page => (page.frontmatter as any).category,
+          formatter: "Category: $content"
+        },
+        {
+          getter: page => page.frontmatter.tag,
+          formatter: "Tag: $content"
+        }
+      ]
+    },
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
@@ -68,7 +82,7 @@ export default hopeTheme({
       playground: {
         presets: ["ts", "vue"]
       },
-      presentation: {
+      revealJs: {
         plugins: ["highlight", "math", "search", "notes", "zoom"]
       },
       stylize: [
@@ -87,8 +101,7 @@ export default hopeTheme({
       sub: true,
       sup: true,
       tabs: true,
-      vPre: true,
-      vuePlayground: true
+      vPre: true
     }
   }
 });

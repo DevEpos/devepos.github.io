@@ -1,5 +1,4 @@
 import { defineUserConfig } from "vuepress";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -16,23 +15,7 @@ export default defineUserConfig({
     //   description: "DevEpos Homepage",
     // },
   },
-  theme,
-  plugins: [
-    searchProPlugin({
-      indexContent: true,
-      // add supports for category and tags
-      customFields: [
-        {
-          getter: page => (page.frontmatter as any).category,
-          formatter: "Category: $content"
-        },
-        {
-          getter: page => page.frontmatter.tag,
-          formatter: "Tag: $content"
-        }
-      ]
-    })
-  ]
+  theme
 
   // Enable it with pwa
   // shouldPrefetch: false,
