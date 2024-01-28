@@ -69,3 +69,12 @@ h5,
 h6 {
   font-family: var(--font-family);
 }
+
+a.header-anchor:hover::before {
+  color: var(--theme-color);
+  font-size: 1em;
+}
+
+:root {
+  --content-width: 800px;
+}
