@@ -1,5 +1,6 @@
 ---
 title: ABAP Search and Analysis Tools
+icon: search
 order: 1
 index: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: ABAP Call Hierarchy
+icon: sitemap
 order: 4
 tag:
     - Beta

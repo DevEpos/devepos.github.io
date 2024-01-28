@@ -1,5 +1,6 @@
 ---
 title: ABAP Tags
+icon: tags
 index: false
 order: 2
 ---

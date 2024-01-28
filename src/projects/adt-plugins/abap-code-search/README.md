@@ -1,5 +1,6 @@
 ---
 title: ABAP Code Search
+icon: search
 order: 3
 index: false
 ---
