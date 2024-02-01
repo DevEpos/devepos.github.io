@@ -1,6 +1,14 @@
 // you can change config here
 $colors: #c0392b, #d35400, #f39c12, #27ae60, #16a085, #2980b9, #8e44ad, #2c3e50, #7f8c8d !default;
 
-// :root {
-//   --sidebar-width: 20rem;
-// }
+:root {
+  --content-width: 800px;
+}
+
+html[data-theme="dark"] {
+  img[src$="png"],
+  img[src^="data:image/png"],
+  img.pswp__img {
+    filter: brightness(0.884) invert(1) hue-rotate(177deg);
+  }
+}
