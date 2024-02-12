@@ -27,6 +27,12 @@ export const enSidebar = sidebar({
           children: []
         },
         {
+          text: "ABAP Search Favorites",
+          link: "abap-search-favorites/README.md",
+          prefix: "abap-search-favorites/",
+          children: []
+        },
+        {
           text: "ABAP Call Hierarchy",
           link: "abap-callhierarchy/README.md",
           prefix: "abap-callhierarchy/",
@@ -52,6 +58,7 @@ export const enSidebar = sidebar({
   "/projects/adt-plugins/abap-code-search": "structure",
   "/projects/adt-plugins/abap-search-and-analysis-tools": "structure",
   "/projects/adt-plugins/abap-tags": "structure",
+  "/projects/adt-plugins/abap-search-favorites": "structure",
   "/projects/adt-plugins/abap-callhierarchy": "structure",
   "/projects/sap-gui/db-browser": "structure"
 });

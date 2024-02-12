@@ -15,8 +15,7 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 #### Features
 
 - Redesign of search dialog
-
-![New ABAP Object Search Dialog](./img/new-search-dialog.png)
+  ![New ABAP Object Search Dialog](./img/new-search-dialog.png)
 
 - New search type View
 - New search type Method
@@ -46,15 +45,11 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
   - comp - Software component
   - appl - Application Component
 - New unified Search Favorites
-
   ![New Search Favorites](./img/new-search-favorites.png)
 - Text Filter possibility for Search Result View
-
   ![Text Filter for Search Result Viewer](./img/text-filter-in-search-result.png)
 - New option to paste clibpoard rows as values in name or filter fields
-
   ![Custom Paste Action in search field](./img/custom-paste-action-in-search-field.png)
-
   ![Pasted content in search field](./img/pasted-content-in-search-field.png)
 
 ### CDS Analysis
@@ -63,18 +58,14 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 
 - New option to rename your CDS Analyzer View
 - Restrict the available analysis types in your CDS Analyzer and create specific view instances in your workspace that handle specific analysis types only
-  
   ![Organize your CDS analyses in multiple views](./img/organize-cds-analyzer-view.png)
 - Easy analysis type switching for the current input
-
   ![Select other possible analysis types from the view toolbar](./img/change-cds-analysis-context.png)
-  
 - Show overlay icon for deprecation API state of CDS Views
 
 #### Top-Down Analysis
 
 - New filter option to show only certain sub tree of the analysis
-
   ![Filter on certain sub tree in Top-Down Analysis](./img/cds-top-down-subtree-filter.png)
 - Enable display of CDS View Entities that contain `Except` or `Intersect`
 
@@ -83,14 +74,12 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 - New Recursive Loading option for Where-Used-in-CDS Analysis {.no-p}
 - New Filter Option to show only certain sub tree of the analysis
 - New Text Filter Option
-
   ![Text Filter in Where-Used-in-CDS Analysis](./img/cds-where-used-text-filter.png)
   
 #### Used Entities Analysis
 
 - New metrics
 - New Text Filter Option
-
   ![Text Filter in Used Entities Analysis](./img/cds-used-entities-text-filter.png)
 
 ## 1.10.0 - 2023-05-27
@@ -100,10 +89,8 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 #### Features
 
 - CDS entities of type Projection are now overlayed with a custom icon
-
   ![Overlay Icon of projection entities](./img/projection-entity-overlay.png)
 - CDS entities of type Hierarchy are now overlayed with a custom icon
-
   ![Overlay Icon of hierarchy entities](./img/hierarchy-entity-overlay.png)
 
 ## 1.9.0 - 2023-03-27

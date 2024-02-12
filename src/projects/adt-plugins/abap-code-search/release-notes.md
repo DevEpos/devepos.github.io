@@ -4,16 +4,22 @@ icon: clock
 order: 3
 ---
 
+## 1.10.0 - 2024-02-xx
+
+### Features
+
+- Search by transport request/task  
+  :::warning Attention
+  ADT Backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) needs to be updated to **v1.5.0** for this feature
+  :::
+
 ## 1.9.0 - 2023-11-28
 
 ### Features
 
 - New unified Search Favorites
-
   ![New Search Favorites](./img/new-search-favorites.png)
-
 - Text Filter possibility for Search Result View
-
   ![Text Filter for Search Result Viewer](./img/search-result-text-filter.png)
 
 ## 1.8.0 - 2023-05-27
@@ -25,11 +31,8 @@ order: 3
 ### Changes
 
 - Search Matches in object type Data Definition are now grouped under the contained Entity with its contained camel-case name.
-  
   ![Entity names instead of upper-case DDL names](./img/entity-names-instead-of-ddl-names.png)
-
 - Behavior definitions are displayed with the name of the corresponding root CDS entity
-
   ![Root entity names intead of upper-case BDEF names](./img/root-entity-in-bdef.png)
 
 ## 1.6.0 - 2023-04-23
@@ -90,7 +93,6 @@ order: 3
 - Integration of ABAP Tags into Search Dialog  
   This allows you to restrict the search scope to objects with specific tags
 - Open Code Search Dialog from context menu action on [Repository Trees](https://help.sap.com/docs/ABAP_PLATFORM_NEW/c238d694b825421f940829321ffa326a/c5660c7ea8ae4955bc565a6256ea061d.html)
-
   ![Search Repository Trees](./img/code-search-from-repository-tree.png)
 
   :::info

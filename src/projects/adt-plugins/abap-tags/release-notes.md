@@ -11,7 +11,6 @@ order: 2
 #### Features
 
 - Local Classes/Interfaces of Programs, Program Includes, Function Group Includes and Functions can now be tagged as well
-
   ![Example of tagged local interface in Program Include](./img/tagged-local_class-in-prog_include.png)
 
   :::warning ATTENTION
@@ -29,11 +28,8 @@ order: 2
 #### Features
 
 - New unified Search Favorites
-
   ![New Search Favorites](./img/tag_search_result-new_favorites.png)
-
 - Text Filter possibility for Search Result View
-
   ![Text Filter for Search Result Viewer](./img/tag_search_result-text_filter.png)
 
 ## 1.10.0 - 2023-05-27
@@ -43,11 +39,8 @@ order: 2
 #### Changes
 
 - For objects of type Data Definition the contained Entity names are displayed instead of the upper case DDL name
-  
   ![Entity names in Tagged Object Trees](./img/entity-names-in-tagged-object-trees.png)
-
 - For objects of type Behavior Definition the corresponding entity name of the root CDS Entity is shown instead.
-
   ![Entity names for Behavior Definitions in search result](./img/entity-names-in-bdef-search-results.png)
 
 ## 1.9.0 - 2023-04-22
@@ -106,7 +99,7 @@ This wizard gives you an easy way to remove Tags from Repository objects.
 
 ### Component Tagging <Badge text="New" type="tip" />
 
-This is a brand new feature that gives you possibility to add Tags to a component of a Repository Object. More information can be found here.
+This is a brand new feature that gives you possibility to add Tags to a component of a Repository Object.
 
 ### ABAP Tagged Object Search
 
@@ -118,7 +111,7 @@ This is a brand new feature that gives you possibility to add Tags to a componen
 
 ### Tagged Object Tree <Badge text="New" type="tip" />
 
-Dynamic Tree, similar to the ABAP Repository Trees that is located in the Project Explorer View (see here for more information).
+Dynamic Tree, similar to the ABAP Repository Trees that is located in the Project Explorer View.
 
 #### Features
 

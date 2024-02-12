@@ -16,7 +16,7 @@ order: 1
 
 ![Ojbect Tags View](./img/object-tags-view.png)
 
-## Search View, to search for tagged objects
+## Search Capabilities
 
 ![Tagged Object Search](./img/tagged-object-search-dialog.png)
 

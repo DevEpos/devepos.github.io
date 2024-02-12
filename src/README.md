@@ -20,6 +20,11 @@ features:
     icon: search
     details: ADT Plug-in for search ABAP Code
     link: /projects/adt-plugins/abap-code-search
+  
+  - title: ABAP Search Favorites
+    icon: star
+    details: ADT Plug-in for managing Search Favorites
+    link: /projects/adt-plugins/abap-search-favorites
 
   - title: ABAP Call Hierarchy
     icon: sitemap

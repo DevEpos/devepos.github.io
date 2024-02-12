@@ -25,8 +25,12 @@ export const enNavbar = navbar([
             text: "ABAP Tags",
             link: "abap-tags/"
           },
+          {
+            text: "ABAP Search Favorites",
+            link: "abap-search-favorites/"
+          },
           { text: "ABAP Code Search", link: "abap-code-search/" },
-          "abap-callhierarchy/"
+          { text: "ABAP Call Hierarchy", link: "abap-callhierarchy/" }
         ]
       },
       {
