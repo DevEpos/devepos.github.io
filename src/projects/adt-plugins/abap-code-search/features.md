@@ -26,3 +26,5 @@ order: 2
 - [X] Access Controls (DCLS)
 - [X] Behavior Definitions (BDEV)
 - [X] Simple Transformations (XSLT)
+- [X] Structures (STRU) <Badge type="tip" vertical="top">[v1.11.0](./release-notes.html#_1-11-0-2024-05-xx)</Badge>
+- [X] Database Tables (DTAB) <Badge type="tip" vertical="top">[v1.11.0](./release-notes.html#_1-11-0-2024-05-xx)</Badge>

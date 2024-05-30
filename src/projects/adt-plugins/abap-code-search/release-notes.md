@@ -4,12 +4,21 @@ icon: clock
 order: 3
 ---
 
+## 1.11.0 - 2024-05-30
+
+- Search structures and database tables
+  :::important Attention
+  ADT Backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) needs to be updated to **v1.6.0** for this feature.
+  
+  To search structures you need ABAP Backend `7.50` and for database tables `7.52`.
+  :::
+
 ## 1.10.0 - 2024-02-12
 
 ### Features
 
 - Search by transport request/task  
-  :::warning Attention
+  :::important Attention
   ADT Backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) needs to be updated to **v1.5.0** for this feature
   :::
 

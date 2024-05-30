@@ -74,3 +74,8 @@ a.header-anchor:hover::before {
   color: var(--theme-color);
   font-size: 1em;
 }
+
+.vp-badge a{
+  text-decoration: none;
+  color: var(--white);
+}
