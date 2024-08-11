@@ -4,6 +4,22 @@ icon: clock
 order: 2
 ---
 
+## 1.12.0 - 2024-08-11
+
+### ABAP Tags
+
+#### Features
+
+- New option *Consider only deleted objects* in* the *Remove Tags from Objects Wizard*, that restricts the results to tagged objects where the objects no longer exist in the repository.
+
+  :::warning ATTENTION
+  Requires version **v2.6.0** of the ADT Backend [abap-tags-backend](https://github.com/DevEpos/abap-tags-backend)
+  :::
+
+#### Changes
+
+- *Object Tags*-view now also shows tagged components that no longer exist, to easily delete them
+
 ## 1.11.0 - 2023-11-28
 
 ### ABAP Tags
