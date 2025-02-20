@@ -4,6 +4,14 @@ icon: clock
 order: 2
 ---
 
+## 1.13.0 - 2025-02-20
+
+### Tagged Object Trees
+
+#### Features
+
+- New context menu entry `Duplicate` for objects under tags
+
 ## 1.12.0 - 2024-08-11
 
 ### ABAP Tags
