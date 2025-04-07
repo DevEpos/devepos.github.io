@@ -11,8 +11,11 @@ order: 2
 It currently supports the following object types:
 
 - Database Table
+- Structure
 - View
 - CDS View
+- Data Element
+- Domain
 - Class / Interface
 - Method
 - Message
