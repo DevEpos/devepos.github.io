@@ -4,7 +4,17 @@ icon: clock
 order: 3
 ---
 
+## 1.12.0 - 2025-05-03
+
+### Features
+
+- Enable _Show Element Information_ on search results via `F2` or context menu action (see [Element Information](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/displaying-code-element-information-in-source-code-editors?locale=en-US))
+
+![Element information on search result node](img/search-result-element-info.png)
+
 ## 1.11.0 - 2024-05-30
+
+### Features
 
 - Search structures and database tables
   :::important Attention
@@ -54,7 +64,7 @@ order: 3
 
 ### Features
 
-- Added new context menu actions to result nodes like *Run as...*, *Coverage as...*
+- Added new context menu actions to result nodes like _Run as..._, _Coverage as..._
 
 ## 1.4.0 - 2023-02-20
 

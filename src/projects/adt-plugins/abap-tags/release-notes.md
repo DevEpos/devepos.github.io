@@ -4,6 +4,14 @@ icon: clock
 order: 2
 ---
 
+## 1.14.0 - 2025-05-03
+
+### Features
+
+- Enable _Show Element Information_ on _ABAP Tagged Object Search_ result and _Tagged Object Trees_ via `F2` or context menu action (see [Element Information](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/displaying-code-element-information-in-source-code-editors?locale=en-US))
+
+![Element information in Tagged Object Trees](img/tagged-object-tree-element-info.png)
+
 ## 1.13.0 - 2025-02-20
 
 ### Tagged Object Trees
@@ -18,7 +26,7 @@ order: 2
 
 #### Features
 
-- New option *Consider only deleted objects* in* the *Remove Tags from Objects Wizard*, that restricts the results to tagged objects where the objects no longer exist in the repository.
+- New option _Consider only deleted objects_ in* the _Remove Tags from Objects Wizard_, that restricts the results to tagged objects where the objects no longer exist in the repository.
 
   :::warning ATTENTION
   Requires version **v2.6.0** of the ADT Backend [abap-tags-backend](https://github.com/DevEpos/abap-tags-backend)
@@ -26,7 +34,7 @@ order: 2
 
 #### Changes
 
-- *Object Tags*-view now also shows tagged components that no longer exist, to easily delete them
+- _Object Tags_-view now also shows tagged components that no longer exist, to easily delete them
 
 ## 1.11.0 - 2023-11-28
 
@@ -129,7 +137,7 @@ This is a brand new feature that gives you possibility to add Tags to a componen
 
 #### Features
 
-- Added new context menu actions to result nodes like *Run as...*, *Coverage as...*
+- Added new context menu actions to result nodes like _Run as..._, _Coverage as..._
 
 ## 1.6.0 - 2023-03-17
 

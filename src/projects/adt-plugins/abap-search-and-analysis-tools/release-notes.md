@@ -4,6 +4,16 @@ icon: clock
 order: 3
 ---
 
+## 2.2.0 - 2025-05-03
+
+### Features
+
+- Enable _Show Element Information_ on _ABAP Object Search_ result and _CDS Analyzer_ View via `F2` or context menu action (see [Element Information](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/displaying-code-element-information-in-source-code-editors?locale=en-US))
+
+![Element information in CDS Top Down Analysis](img/cds-top-down-element-info.png)
+
+![Element information in Object Search Result](img/object-search-result-element-info.png)
+
 ## 2.0.0 - 2023-11-28
 
 :::warning ATTENTION
@@ -132,7 +142,7 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 
 #### Features
 
-- The Preferences and Views are now grouped under the name *DevEpos*
+- The Preferences and Views are now grouped under the name _DevEpos_
 
 ## 1.4.0 - 2021-04-21
 
@@ -152,7 +162,7 @@ Due to breaking changes in this release, the abapGit repository [abap-search-too
 
 #### Features
 
-- Enable *Show In* context (`ALT`+`SHIFT`+`W`)
+- Enable _Show In_ context (`ALT`+`SHIFT`+`W`)
 
 ## 1.2.0 - 2019-12-05
 
