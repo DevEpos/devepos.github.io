@@ -11,6 +11,17 @@ ABAP Tags is an Open Source Plugin which provides tools for adding arbitrary tag
 
 ![Tag Manager View](./img/tag-manager-view.png)
 
+## Installation
+
+### Backend (ABAP)
+
+- Use abapGit to install [abap-tags-backend](https://github.com/DevEpos/abap-tags-backend)
+
+### Frontend (Eclipse)
+
+- Use Eclipse [Update Site](https://eclipse.devepos.com/latest) or
+- Install via [Marketplace (drag-n-drop)](https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=5172007)
+
 ## Source Code
 
 The source code for the plug-in is MIT licensed and available on GitHub:
