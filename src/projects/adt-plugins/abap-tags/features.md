@@ -14,7 +14,7 @@ order: 1
 
 ## Object Tags View
 
-![Ojbect Tags View](./img/object-tags-view.png)
+![Object Tags View](./img/object-tags-view.png)
 
 ## Search Capabilities
 
@@ -23,3 +23,13 @@ order: 1
 ## Tagged Object Trees
 
 ![Tagged Object Trees](./img/tagged-object-trees.png)
+
+## Importing ABAP Tags Wizard
+
+![Source Page](./img/import_wizard__source_page.png)
+
+![Content Page](./img/import_wizard__content_page.png)
+
+## Exporting ABAP Tags Wizard
+
+![Selection Page](./img/export_wizard__tags_page.png)

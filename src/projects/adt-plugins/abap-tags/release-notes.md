@@ -4,6 +4,26 @@ icon: clock
 order: 2
 ---
 
+## 1.15.0 - 2025-07-04
+
+### Features
+
+- New wizard for [importing tags](./features.md#importing-abap-tags-wizard)
+  
+  :::warning ATTENTION
+  Requires version **v2.7.0** of the ADT Backend [abap-tags-backend](https://github.com/DevEpos/abap-tags-backend)
+  :::
+- New wizard for [exporting tags](./features.md#exporting-abap-tags-wizard)
+  
+  :::warning ATTENTION
+  Requires version **v2.7.0** of the ADT Backend [abap-tags-backend](https://github.com/DevEpos/abap-tags-backend)
+  :::
+
+### Changes
+
+- Added keyboard shortcuts for _Expand all_ and _Collapse all_ to all ABAP Tag tree controls
+- Added keyboard shortcuts for _New Global Tag_ and _New User Tag_ in [_Tagging Wizard_](./features.md#wizard-for-tagging-repository-objects)
+
 ## 1.14.0 - 2025-05-03
 
 ### Features
