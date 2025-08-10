@@ -8,7 +8,7 @@ order: 3
 
 ### Features
 
-- New _Client-Based_ search mode. This mode does not require the custom ADT backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) to be installed in the targetted ABAP project.
+- New _Client-Based_ search mode. This mode does not require the custom ADT backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) to be installed in the targeted ABAP project.
   It further enables the ABAP Code Search for S/4HANA Public Cloud Edition and BTP ABAP Environment.
 
 ## 1.12.0 - 2025-05-03
