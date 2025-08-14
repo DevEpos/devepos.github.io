@@ -7,7 +7,10 @@ index: false
 
 ## Description
 
-The ABAP Code Search is a tool to search in ABAP source code for a given string.
+The ABAP Code Search enables one to search ABAP sources.
+
+![Code Search Dialog](./img/search-dialog.png)
+
 It comes in two flavors:
 
 ### Client-Based
@@ -35,8 +38,6 @@ The ABAP Code Search plug-in communicates with the corresponding [ABAP backend](
 - ABAP Platform 7.40+
 - S/4HANA
 - S/4HANA Private Cloud Edition
-
-![Code Search Dialog](./img/search-dialog.png)
 
 ## Installation
 
