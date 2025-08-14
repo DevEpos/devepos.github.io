@@ -14,6 +14,10 @@ It comes in two flavors:
 
 In the client-based approach, the existing ADT REST API is used to search for relevant objects in the ABAP system. Once the source code is retrieved, the search is performed in the client. Due to the [used APIs](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/abap-repository-trees-concept?locale=en-US) the client-based search only works with a minimum ABAP version of 7.51 and a connected HANA database.
 
+:::info
+For this search mode only the [Eclipse Plugin](#frontend-eclipse) is required
+:::
+
 #### Supported Environments
 
 - ABAP Platform 7.51+
@@ -24,7 +28,7 @@ In the client-based approach, the existing ADT REST API is used to search for re
 
 ### Server-Based
 
-The ABAP Code Search plug-in communicates with the corresponding ABAP backend to perform the search completely in the ABAP system. Only the match results are reported back to the client.
+The ABAP Code Search plug-in communicates with the corresponding [ABAP backend](#backend-abap) to perform the search completely in the ABAP system. Only the match results are reported back to the client.
 
 #### Supported Environments
 
@@ -43,8 +47,8 @@ The ABAP Code Search plug-in communicates with the corresponding ABAP backend to
 
 ### Backend (ABAP)
 
-:::tip Tip
-The installation of the custom ABAP backend is only required if the [Client-Based](./#client-based) search is not available or its performance is insufficient
+:::important
+The installation is required for the [Server-Based](#server-based) search
 :::
 
 - Use abapGit to install [abap-code-search](https://github.com/DevEpos/abap-code-search-tools)
