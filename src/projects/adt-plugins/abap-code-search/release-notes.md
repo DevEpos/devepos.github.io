@@ -4,6 +4,16 @@ icon: clock
 order: 3
 ---
 
+## 1.16.0 - 2025-08-15
+
+### Features
+
+- New filter "api" for _Client-Based_ search mode
+- Added _Service definitions_ as possible object type <Badge type="info" vertical="top">[Client-Based only](./README.md#client-based)</Badge>
+  :::important
+  The targeted ABAP system requires version 7.54 (S/4HANA 1909) or higher
+  :::
+
 ## 1.15.0 - 2025-08-10
 
 ### Features
@@ -23,7 +33,7 @@ order: 3
 
 ### Features
 
-- Search structures and database tables
+- Added _Structures_ and _Database Tables_ as possible object type
   :::important Attention
   ADT Backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) needs to be updated to **v1.6.0** for this feature.
   
