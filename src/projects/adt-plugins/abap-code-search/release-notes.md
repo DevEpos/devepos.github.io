@@ -4,14 +4,15 @@ icon: clock
 order: 3
 ---
 
-## 1.16.0 - 2025-08-15
+## 1.17.0 - 2025-08-15
 
 ### Features
 
-- New filter "api" for _Client-Based_ search mode
-- Added _Service definitions_ as possible object type <Badge type="info" vertical="top">[Client-Based only](./README.md#client-based)</Badge>
+- New search filter "api" <Badge type="tip" vertical="top">[Backend v1.7.0](https://github.com/DevEpos/abap-code-search-tools)</Badge>
+- New search filter "comp" <Badge type="info" vertical="top">[Server-Based](./README.md#server-based)</Badge> <Badge type="tip" vertical="top">[Backend v1.7.0](https://github.com/DevEpos/abap-code-search-tools)</Badge>
+- Added _Service definitions_ as possible object type <Badge type="tip" vertical="top">[Backend v1.7.0](https://github.com/DevEpos/abap-code-search-tools)</Badge>
   :::important
-  The targeted ABAP system requires version 7.54 (S/4HANA 1909) or higher
+  The targeted ABAP system requires version 7.54 (S/4HANA 1909) or higher.
   :::
 
 ## 1.15.0 - 2025-08-10
@@ -19,7 +20,16 @@ order: 3
 ### Features
 
 - New _Client-Based_ search mode. This mode does not require the custom ADT backend [abap-code-search-tools](https://github.com/DevEpos/abap-code-search-tools) to be installed in the targeted ABAP project.
-  It further enables the ABAP Code Search for S/4HANA Public Cloud Edition and BTP ABAP Environment.
+  It further enables the ABAP Code Search for S/4HANA Public Cloud Edition and BTP ABAP Environment.  
+  The following search filters are available (depending on release):
+  - type
+  - owner
+  - package
+  - appl
+  - created
+  - month
+  - date
+  - comp
 
 ## 1.12.0 - 2025-05-03
 
