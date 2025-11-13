@@ -4,6 +4,15 @@ icon: clock
 order: 2
 ---
 
+## 1.16.0 - 2025-11-13
+
+### Features
+
+- New action *Show Tag Manager* in the main toolbar, to quickly open the [Tag Manager](./features.md#view-to-manage-abap-tags) view
+- New context menu action in [Tagged Object Trees](./features.md#tagged-object-trees):
+  - On the root node: *Show Tag Manager* (like main toolbar )
+  - On tag nodes: *Show in Tag Manager* opens the *Tag Manager View* and sets focus to the tag
+
 ## 1.15.0 - 2025-07-04
 
 ### Features
