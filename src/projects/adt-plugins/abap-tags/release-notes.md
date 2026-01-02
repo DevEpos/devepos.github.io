@@ -4,6 +4,12 @@ icon: clock
 order: 2
 ---
 
+## 1.18.0 - 2026-01-02
+
+### Features
+
+- New option to create sub tags directly in the [Tagging Wizard](./features.md#wizard-for-tagging-repository-objects)
+
 ## 1.17.0 - 2025-11-13
 
 ### Features
